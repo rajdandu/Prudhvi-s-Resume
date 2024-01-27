@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prudhvi's Resume</title>
+</head>
+<body>
+    <h1>PRUDHVI RAJ DANDU</h1>
+    <h2>Consultant</h2>
+    <p>Email: prudhvirajdandu777@gmail.com</p>
+    <p>Ph no: +91 9003224674</p>
+    <p>Location: Vizianagara, India</p>
+    <hr />
+    <h3>PROFESSIONAL SUMMARY:</h3>
+    <ul>
+        <li>Experienced business and systems analyst with 3.4 years of IT experience with emphasis in
+            COBOL, CICS, JCL, VASAM, DB2, CA Datacom/DB.</li>
+        <li>Demonstrated strengths include process analysis, technical troubleshooting, and project leadership and communication skills. </li>
+        <li>Experienced in working with Agile and Waterfall methodologies</li>
+        <li>Skilled in understanding client’s requirements and developing solutions.</li>
+        <li>Supporting and collaborating with operational teams in meeting deliverable.</li>
+        <li>Experience in agile methodology to optimize the delivery of projects.</li>
+        <li>Skilled in understanding client’s requirements and developing solutions.</li>
+    </ul>
+    <h3>SKILL SET:</h3>
+    <ul>
+        <li>Technologies: Mainframe </li>
+        <li>Frameworks: COBOL, CICS, JCL, APS & OBJECTSTAR </li>
+        <li>Project Management Tool: JIRA</li>
+        <li>Tools: Vanilla Mainframe</li>
+        <li>Database: DB2, Datacom </li>
+        <li>Operating Systems: z/OS 2.5 </li>
+        <li>Version Controller: The Librarian, Alchemist. </li>
+    </ul>
+    <h3>WORK EXPERIENCE:</h3>
+    <h4>Consultant (09/2023 – Present) </h4>
+    <p>Capgemini Information technology, Hyderabad, India</p>
+    <p>Client: CO-Operative bank, UK – Financial Domain </p>
+    <ul>
+        <li>Worked on the UAT Defects in critical phases. </li>
+        <li>Provided Support in Production deployment. </li>
+    </ul>
+    <h4>Associate Consultant (09/2022 – 09/2023)</h4>
+    <p>Capgemini Information technology, Hyderabad, India</p>
+    <p>Client: CO-Operative bank, UK – Financial Domain </p>
+    <ul>
+        <li>Worked on few COBOL online and Batch codes from scratch. Worked on few UAT Defects. Supported few warranty defects during code deployment.</li>
+        <li>Worked on Object Star Rules for account opening process.  </li>
+    </ul>
+    <h4>Senior Software Engineer (09/2021 - 09/2022) </h4>
+    <p>Capgemini Information technology, Hyderabad, India</p>
+    <p>Client: CO-Operative bank, UK – Financial Domain </p>
+    <ul>
+        <li>Worked with development teams to identify fixies and run test scenarios.</li>
+        <li>Tested methodology with writing and execution of test plans, debugging and testing scripts and tools.</li>
+        <li>Updated old code bases to modern development standards, improving functionality.</li>
+        <li>Learnt new technology like APS (Application productivity software), Object star for client requirement, and worked on it.</li>
+    </ul>
+    <h4>Software Engineer (09/2020 - 09/2021)</h4>
+    <p>Capgemini Information technology, Hyderabad, India</p>
+    <p>Client: CO-Operative bank, UK – Financial Domain </p>
+    <ul>
+        <li>Worked on Specification documents and Test Case documents and Unit testing for the components and worked on few COBOL batch and CICS online components.</li>
+    </ul>
+    <h3>EDUCATION:</h3>
+    <ul>
+        <li><p>B.Tech/Mechanical Engineering,from VelTech Rangarajan Dr.Sagunthala R& D Institute of Science and Technology | 2016 - 2020 CGPA: 8.6 </p></li>
+        <li><p>12th, State Board, Andhra Pradesh | 2014 - 2016, Percentage: 91.2 </p></li>
+        <li><p>10th, State Board, Andhra Pradesh | 2013 - 2014, CGPA: 9.2</p></li>
+    </ul>
+    <h3>CERTIFICATIONS:</h3>
+    <UL>
+        <LI>Automation Engineer Practitioner Certification (09/2020 - 12/2020) </LI>
+        <li>Level 1 Ocean Certification on Mainframe Developer (2023) </li>
+    </UL>
+    <h3>PERSONAL PROJECTS:</h3>
+    <h4>FMAE eBAJA 2K19 (09/2018 - 03/2019)</h4>
+    <ul>
+        <li>We as a team of 25 created an electric buggy and went to the competition and own overall third prize.</li>
+    </ul>
+    <h3>ACHIEVEMENTS:</h3>
+    <ul>
+        <li>Achieved employee of the month for the two consecutive years on a quarterly basis and one time as raising star. </li>
+    </ul>
+    <P>Prudhvi Raj Dandu</P>
+    <p>Date: </p>
+    <footer>
+        <p>© 2024 Prudhvi</p>
+      </footer>
+</body>
+</html>
